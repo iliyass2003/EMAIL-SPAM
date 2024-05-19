@@ -1,2 +1,2 @@
-Pour execute le projet 
-#streamlit run spamDetectore.py
+Run this Command
+### streamlit run spamDetectore.py
